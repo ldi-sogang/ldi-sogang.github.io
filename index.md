@@ -10,4 +10,4 @@ show_call_box: true
 
 # Language & Data Intelligence Laboratory
 
-@Sogang University
+We focus on developing the latest NLP and machine learning technologies and applying them to solve real-world problems.

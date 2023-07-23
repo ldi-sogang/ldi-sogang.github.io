@@ -1,0 +1,128 @@
+# Publications
+
+- title: "A Deep Neural Spoiler Detection Model using a Genre-Aware Attention Mechanism"
+  type: conference
+  venue: Pacific-Asia Conference on Knowledge Discovery and Data Mining (<b>PAKDD18</b>)
+  year: 2018
+  authors: <b>Buru Chang</b>, Hyunjae Kim, Raehyun Kim, Deahan Kim, Jaewoo Kang
+  date: 2018.05.15
+
+- title: "Content-Aware Hierarchical Point-of-Interest Embedding Model for Successive POI Recommendation"
+  type: conference
+  venue: International Joint Conference on Artificial Intelligence and the 23rd European Conference on Artificial Intelligence (<b>IJCAI-ECAI18</b>)
+  year: 2018
+  authors: <b>Buru Chang</b>, Yonggyu Park, Donghyeon Park, Seongsoon Kim, Jaewoo Kang
+  date: 2018.07.13
+
+- title: "DeepPIM: A Deep Neural Point-of-Interest Imputation Model"
+  type: journal
+  venue: <b>Information Sciences</b>
+  year: 2018
+  authors: <b>Buru Chang</b>, Yonggyu Park, Seongsoon Kim, Jaewoo Kang
+  date: 2018.10
+
+- title: "ARPNet: Antidepressant Response Prediction Model for Major Depressive Disorder"
+  type: journal
+  venue: <b>Genes</b>
+  year: 2019
+  authors: <b>Buru Chang</b>, Yonghwa Choi, Minji Jeon, Junhyun Lee, Kyu-Man Han, Aram Kim, Byung-Joo Ham, Jaewoo Kang
+  date: 2019.10
+
+- title: "Content-Aware Successive Point-of-Interest Recommendation"
+  type: conference
+  venue: SIAM International Conference on Data Mining (<b>SDM20</b>)
+  year: 2020
+  authors: <b>Buru Chang</b>, Yookyung Koh, Donghyeon Park, Jaewoo Kang
+  date: 2020.05.07
+
+- title: "Learning Graph-Based Geographical Latent Representation for Point-of-Interest Recommendation"
+  type: conference
+  venue: ACM International Conference on Information and Knowledge Management (<b>CIKM20</b>)
+  year: 2020
+  authors: <b>Buru Chang</b>, Gwanghoon Jang, Seoyoon Kim, Jaewoo Kang
+  date: 2020.09.12
+
+- title: '"Killing Me" Is Not a Spoiler: Spoiler Detection Model using Graph Neural Networks with Dependency Relation-Aware Attention Mechanism'
+  type: conference
+  venue: Conference of the European Chapter of the Association for Computational Linguistics (<b>EACL21</b>)
+  year: 2021
+  authors: <b>Buru Chang</b>, Inggeol Lee, Hyunjae Kim, Jaewoo Kang
+  date: 2021.04
+
+- title: "Disentangling Label Distribution for Long-tailed Visual Recognition"
+  type: conference
+  venue: IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR21</b>)
+  year: 2021
+  authors: Youngkyu Hong, Seungju Han, Kwanghee Choi, Seokjun Seo, Beomsu Kim, <b>Buru Chang</b>
+  date: 2021.05
+
+- title: "Efficient Click-Through Rate Prediction for Developing Countries via Tabular Learning"
+  type: workshop
+  venue: Practical ML for Developing Countries Workshop @ ICLR 2021 (<b>PML4DC@ICLR21</b>)
+  year: 2021
+  authors: Joonyoung Yi, <b>Buru Chang</b>
+  date: 2021.06
+
+- title: "Distilling the Knowledge of Large-scale Generative Models into Retrieval Models for Efficient Open-domain Conversation"
+  type: conference
+  venue: Conference on Empirical Methods in Natural Language Processing (<b>Findings of EMNLP21</b>)
+  year: 2021
+  authors: Beomsu Kim, Seokjun Seo, Seungju Han, Enkhbayar Erdenee, <b>Buru Chang</b>
+  date: 2021.11
+
+- title: "Embedding Normalization: Significance Preserving Feature Normalization for Click-Through Rate Prediction (Best Paper Award)"
+  type: workshop
+  venue: Advanced Neural Algorithms and Theories for Recommender Systems Workshop @ ICDM 2021 (<b>NeuRec@ICDM21</b>)
+  year: 2021
+  authors: Joonyoung Yi, Beomsu Kim, <b>Buru Chang</b>
+  date: 2021.12
+
+- title: "Temporal Knowledge Distillation for On-device Audio Classification"
+  type: conference
+  venue: IEEE International Conference on Acoustics, Speech and Signal Processing (<b>ICASSP22</b>)
+  year: 2022
+  authors: Kwanghee Choi, Martin Kersner, Jacob Morton, <b>Buru Chang</b>
+  date: 2022.04
+
+- title: "Understanding and Improving the Exemplar-based Generation for Open-domain Conversation (Outstanding Paper Award)"
+  type: workshop
+  venue: NLP for Conversational AI workshop @ ACL 2022 (<b>NLP4ConvAI@ACL22</b>)
+  year: 2022
+  authors: Seungju Han, Beomsu Kim, Seokjun Seo, Enkhbayar Erdenee, <b>Buru Chang</b>
+  date: 2022.05
+
+- title: "Meet Your Favorite Character: Open-domain Chatbot Mimicking Fictional Characters with only a Few Utterances"
+  type: conference
+  venue: Annual Conference of the North American Chapter of the Association for Computational Linguistics (<b>NAACL22</b>)
+  year: 2022
+  authors: Seungju Han, Beomsu Kim, Jin Yong Yoo, Seokjun Seo, Sangbum Kim, Enkhbayar Erdenee, <b>Buru Chang</b>
+  date: 2022.06
+
+- title: "Learning with Noisy Labels by Efficient Transition Matrix Estimation to Combat Label Miscorrection"
+  type: conference
+  venue: European Conference on Computer Vision (<b>ECCV22</b>)
+  year: 2022
+  authors: Seong Min Kye, Kwanghee Choi, Joonyoung Yi, <b>Buru Chang</b>
+  date: 2022.10
+
+- title: "Measuring and Improving Semantic Diversity of Dialogue Generation"
+  type: conference
+  venue: Conference on Empirical Methods in Natural Language Processing (<b>Findings of EMNLP22</b>)
+  year: 2022
+  authors: Seungju Han, Beomsu Kim, <b>Buru Chang</b>
+  date: 2022.11
+
+- title: "Reliable Decision from Multiple Subtasks through Threshold Optimization: Content Moderation in the Wild"
+  type: conference
+  venue: ACM International Conference on Web Search and Data Mining (<b>WSDM23, Oral</b>)
+  year: 2023
+  authors: Donghyun Son, Byounggyu Lew, Kwanghee Choi, Yongsu Baek, Seungwoo Choi, Beomjun Shin, Sungjoo Ha, <b>Buru Chang</b>
+  date: 2023.2.28
+
+- title: "TiDAL: Learning Training Dynamics for Active Learning"
+  type: conference
+  venue: IEEE International Conference on Computer Vision (<b>ICCV23</b>)
+  year: 2023
+  authors: Seong Min Kye, Kwanghee Choi, Hyeongmin Byun, <b>Buru Chang</b>
+  date: 2023.10.5
+
