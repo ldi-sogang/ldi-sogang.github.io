@@ -16,4 +16,21 @@ buru
 
 {% for paper in site.data.publications %}
 {{ paper.type }}
+
+{% if paper.type == "conference" %}
+{% assign conference_count = conference_count | plus: 1 %}
+{% endif %}
+
+{% if paper.type == "journal" %}
+{% assign journal_count = journal_count | plus: 1 %}
+{% endif %}
+
+{% if paper.type == "workshop" %}
+{% assign workshop_count = workshop_count | plus: 1 %}
+{% endif %}
+
+{% if paper.type == "preprint" %}
+{% assign preprint_count = preprint_count | plus: 1 %}
+{% endif %}
+
 {% endfor %}
