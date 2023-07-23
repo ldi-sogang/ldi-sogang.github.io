@@ -13,3 +13,7 @@ buru
 {% assign journal_count = 0 %}
 {% assign workshop_count = 0 %}
 {% assign preprint_count = 0 %}
+
+{% for paper in site.data.publications %}
+{{ paper.type }}
+{% endfor %}
