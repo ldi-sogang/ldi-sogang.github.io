@@ -12,7 +12,7 @@ bodyClass: page-about
 {% assign workshop_count = 0 %}
 {% assign preprint_count = 0 %}
 
-{% for paper in site.data.publications %}
+<!-- {% for paper in site.data.publications %}
 
 {% if paper.type == "conference" %}
 {% assign conference_count = conference_count | plus: 1 %}
@@ -24,7 +24,7 @@ bodyClass: page-about
 
 {% if paper.type == "workshop" %}
 {% assign workshop_count = workshop_count | plus: 1 %}
-{% endif %}
+{% endif %} -->
 <!-- 
 {% if paper.type == "preprint" %}
 {% assign preprint_count = preprint_count | plus: 1 %}
