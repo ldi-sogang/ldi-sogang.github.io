@@ -3,16 +3,16 @@ main:
     url: "/team/"
     weight: 2
   - name: "Publications"
-    url: "/about/"
+    url: "/publications/"
     weight: 3
-  - name: "Services"
-    url: "/services/"
-    weight: 4
   - name: "Contact"
     url: "/contact/"
-    weight: 5
+    weight: 4
   - name: "Hiring!"
     url: "/hiring/"
+    weight: 5
+  - name: "Services"
+    url: "/services/"
     weight: 6
 
 footer:
