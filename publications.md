@@ -36,4 +36,7 @@ buru
 
 {% for year in posts_by_year %}
 > ## {{ year.name }}
+{% assign sorted_items = year.items | sort: "date" | reverse %}
+
+
 {% endfor %}
