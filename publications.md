@@ -4,9 +4,6 @@ layout: publications
 description: Publications
 bodyClass: page-about
 ---
-
-buru
-
 {% assign posts_by_year = site.data.publications | group_by:"year" | sort: "name" | reverse %}
 
 {% assign conference_count = 0 %}
@@ -15,7 +12,6 @@ buru
 {% assign preprint_count = 0 %}
 
 {% for paper in site.data.publications %}
-{{ paper.type }}
 
 {% if paper.type == "conference" %}
 {% assign conference_count = conference_count | plus: 1 %}
