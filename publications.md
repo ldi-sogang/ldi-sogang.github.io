@@ -32,5 +32,8 @@ buru
 {% if paper.type == "preprint" %}
 {% assign preprint_count = preprint_count | plus: 1 %}
 {% endif %}
+{% endfor %}
 
+{% for year in posts_by_year %}
+> ## {{ year.name }}
 {% endfor %}
