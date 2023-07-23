@@ -39,6 +39,6 @@ buru
 
 {{ year.items }}
 {% for item in year.items reversed %}
-{{ item.title }}
+**[{% if item.type == "conference" %}C{{ conference_count }}{% assign conference_count = conference_count | minus: 1 %}{% endif %}{% if item.type == "journal" %}J{{ journal_count }}{% assign journal_count = journal_count | minus: 1 %}{% endif %}{% if item.type == "workshop" %}W{{ workshop_count }}{% assign workshop_count = workshop_count | minus: 1 %}{% endif %}] {{ item.title }}**
 {% endfor %}
 {% endfor %}
