@@ -24,11 +24,11 @@ bodyClass: page-about
 
 {% if paper.type == "workshop" %}
 {% assign workshop_count = workshop_count | plus: 1 %}
-{% endif %} -->
-<!-- 
+{% endif %}
+
 {% if paper.type == "preprint" %}
 {% assign preprint_count = preprint_count | plus: 1 %}
-{% endif %} -->
+{% endif %}
 
 {% endfor %}
 
@@ -44,4 +44,4 @@ bodyClass: page-about
 {{ paper.venue }}
 
 {% endfor %}
-{% endfor %}
+{% endfor %} -->
