@@ -1,4 +1,5 @@
-baseurl: '/'
+url: 'https://ldi-sogang.github.io'
+baseurl: ''
 permalink: pretty
 title: 'Jekyll Serif'
 
