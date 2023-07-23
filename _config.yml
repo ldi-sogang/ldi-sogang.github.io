@@ -1,6 +1,7 @@
-baseurl: ''
+title: 'Language & Data Intelligence Laboratory'
+url: 'https://ldi-sogang.github.io'
+baseurl: '/'
 permalink: pretty
-title: 'Jekyll Serif'
 
 logo:
   mobile: "images/logo/logo-mobile.svg"
@@ -12,6 +13,7 @@ logo:
 
 home: 
   limit_services: 6
+  limit_news: 5
 
 collections:
   services:
