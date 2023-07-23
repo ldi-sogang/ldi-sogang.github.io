@@ -1,0 +1,32 @@
+# Members
+
+- name: Student 1
+  status: Ph.D. Student
+  img: https://avatars1.githubusercontent.com/u/7231251?v=3&s=460
+  email: student1@sogang.ac.kr
+  personal_website: ahmetcecen
+  research_interst: natural language processing
+  visible: true
+
+- name: Student 2
+  status: Ph.D. Student
+  img: https://avatars1.githubusercontent.com/u/7231251?v=3&s=460
+  email: student1@sogang.ac.kr
+  personal_website: ahmetcecen
+  research_interst: natural language processing
+  visible: true
+
+- name: Student 3
+  status: Ph.D. Student
+  img: https://avatars1.githubusercontent.com/u/7231251?v=3&s=460
+  email: student1@sogang.ac.kr
+  research_interst: natural language processing
+  visible: true
+
+
+- name: Student 3
+  status: M.S. Student
+  img: https://avatars1.githubusercontent.com/u/7231251?v=3&s=460
+  email: student1@sogang.ac.kr
+  research_interst: natural language processing
+  visible: true
