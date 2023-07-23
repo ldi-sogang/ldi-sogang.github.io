@@ -1,0 +1,24 @@
+main:
+  - name: "Members"
+    url: "/team/"
+    weight: 2
+  - name: "Publications"
+    url: "/about/"
+    weight: 3
+  - name: "Services"
+    url: "/services/"
+    weight: 4
+  - name: "Contact"
+    url: "/contact/"
+    weight: 5
+  - name: "Hiring!"
+    url: "/hiring/"
+    weight: 6
+
+footer:
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "Contact"
+    url: "/contact/"
+    weight: 2

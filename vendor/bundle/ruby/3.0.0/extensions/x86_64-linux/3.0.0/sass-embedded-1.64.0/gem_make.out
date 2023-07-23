@@ -1,0 +1,5 @@
+current directory: /home/buru/Documents/jekyll-serif-theme/vendor/bundle/ruby/3.0.0/gems/sass-embedded-1.64.0/ext/sass
+/usr/bin/ruby3.0 -I/usr/lib/ruby/vendor_ruby -rrubygems /home/buru/Documents/jekyll-serif-theme/vendor/bundle/ruby/3.0.0/gems/rake-13.0.6/exe/rake RUBYARCHDIR\=/home/buru/Documents/jekyll-serif-theme/vendor/bundle/ruby/3.0.0/extensions/x86_64-linux/3.0.0/sass-embedded-1.64.0 RUBYLIBDIR\=/home/buru/Documents/jekyll-serif-theme/vendor/bundle/ruby/3.0.0/extensions/x86_64-linux/3.0.0/sass-embedded-1.64.0
+gem install --force --install-dir /home/buru/Documents/jekyll-serif-theme/vendor/bundle/ruby/3.0.0/gems/sass-embedded-1.64.0/ext/sass/ruby --no-document --ignore-dependencies --platform x86_64-linux-gnu --version 1.64.0 sass-embedded
+cp -r /home/buru/Documents/jekyll-serif-theme/vendor/bundle/ruby/3.0.0/gems/sass-embedded-1.64.0/ext/sass/ruby/gems/sass-embedded-1.64.0-x86_64-linux/ext/sass/dart-sass dart-sass
+rm -rf /home/buru/Documents/jekyll-serif-theme/vendor/bundle/ruby/3.0.0/gems/sass-embedded-1.64.0/ext/sass/ruby
