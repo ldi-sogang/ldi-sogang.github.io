@@ -38,7 +38,7 @@ buru
 > ## {{ year.name }}
 
 {{ year.items }}
-{% for item in year.items%}
+{% for item in year.items reversed %}
 {{ item.title }}
 {% endfor %}
 {% endfor %}
