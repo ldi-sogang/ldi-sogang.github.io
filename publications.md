@@ -38,6 +38,7 @@ buru
 > ## {{ year.name }}
 
 {{ year.items }}
-{% assign sorted_items = year.items | sort: "date" | reverse %}
-
+{% for item in year.items%}
+{{ item.title }}
+{% endfor %}
 {% endfor %}
