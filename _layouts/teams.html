@@ -69,6 +69,10 @@ bodyClass: "page-teams"
                     </p>
                 </div>
             {% endfor %}
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-12 mb-2">
             {% endif %}
             {% assign members = site.data.members | where: "status", "M.S. Student" %}
             {% if members %}
