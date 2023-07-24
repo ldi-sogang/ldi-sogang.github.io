@@ -1,11 +1,11 @@
 # Professor
 
 - name: Buru Chang
-  role: Assistant Professor, Department of Computer Science and Engineering, Sogang University, Seoul, South Korea 
-  img: /img/members/buru.chang.jpg
+  role: Assistant Professor
+  affiliation: ["Department of Artificial Intelligence, Sogang University", "Department of Computer Science & Engineering, Sogang University"]
+  image: /images/members/buru.chang.jpg
   personal_website: https://sites.google.com/view/buru-chang
   google_scholar: https://scholar.google.com/citations?user=5Qa2Uw0AAAAJ
-  github: ahmetcecen
-  gplus: https://plus.google.com/+AhmetCecen-GPlus
-  bio: Dr. Buru Chang is an Assistant Professor in the Department of Computer Science and Engineering at Sogang University.  Before joining Sogang University in Fall 2023,  he spent three years as a machine learning research scientist at Hyperconnect (of Match Group).  I obtained my Ph.D. from the Yonsei University in 2020 under the supervision of Prof. Hyunjung Shim, and my B.S. also from the Yonsei University in 2013.   
-  url: http://ahmetcecen.github.io/
+  cv: https://drive.google.com/file/d/1jB3y6LdY7e7xSFhbZz6aIRFe2JFex3x0/view?usp=sharing
+  bio: 'Dr. Buru Chang is an Assistant Professor in the Department of Computer Science and Engineering at Sogang University.  Before joining Sogang University in Fall 2023,  he spent three years as a machine learning research scientist at <u><a href="https://hpcnt.com">Hyperconnect</a></u> (of <u><a href="https://mtch.com">Match Group</a></u>).  He received a Ph.D. degree from the Korea University (Advisor: <u><a href="https://dmis.korea.ac.kr">Prof. Jaewoo Kang</a></u>) in 2020, and also did B.S. from the Korea University in 2016.'
+  email: buru@sogang.ac.kr
