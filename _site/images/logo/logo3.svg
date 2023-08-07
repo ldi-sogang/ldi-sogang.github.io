@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="240"
+   height="64"
+   viewBox="0 0 203.47122 54.258992"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="logo3.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#111111"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="9.1667148"
+     inkscape:cx="111.27214"
+     inkscape:cy="12.818115"
+     inkscape:window-width="3840"
+     inkscape:window-height="2054"
+     inkscape:window-x="1909"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g2" />
+  <defs
+     id="defs1">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 27.129496 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="203.47122 : 27.129496 : 1"
+       inkscape:persp3d-origin="101.73561 : 18.086331 : 1"
+       id="perspective11" />
+    <rect
+       x="13.576379"
+       y="187.60088"
+       width="294.36057"
+       height="183.89822"
+       id="rect3" />
+    <rect
+       x="37.643597"
+       y="229.56422"
+       width="177.72714"
+       height="27.769867"
+       id="rect2" />
+    <rect
+       x="-61.710812"
+       y="225.86157"
+       width="160.4481"
+       height="41.963352"
+       id="rect1" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-2.8863344,-38.657215)"
+       id="text1"
+       style="white-space:pre;shape-inside:url(#rect1);display:inline;fill:#000000" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-2.8863344,-38.657215)"
+       id="text3"
+       style="white-space:pre;shape-inside:url(#rect3);display:inline;fill:#000000" />
+    <g
+       id="g8"
+       transform="translate(0,2.5433902)">
+      <text
+         xml:space="preserve"
+         style="font-style:italic;font-variant:normal;font-weight:900;font-stretch:normal;font-size:54.3649px;font-family:'Uni Sans';-inkscape-font-specification:'Uni Sans, Heavy Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;word-spacing:-9.01509px;fill:#000000;stroke-width:0.318121"
+         x="11.4395"
+         y="28.090752"
+         id="text4"
+         transform="scale(1.005626,0.99440548)"><tspan
+           sodipodi:role="line"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:54.3649px;font-family:Panton;-inkscape-font-specification:'Panton, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0.050967px;word-spacing:-9.01509px;stroke-width:0.318121"
+           x="0"
+           y="0"
+           id="tspan7"
+           rotate="0"><tspan
+             id="tspan6"
+             style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:54.3649px;font-family:Panton;-inkscape-font-specification:'Panton, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0.050967px;word-spacing:-9.01509px;stroke-width:0.318121"
+             rotate="0" /></tspan></text>
+      <g
+         id="g2"
+         transform="matrix(1.0021182,0,0,1.1728286,0,-4.9047356)">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:11.7135px;font-family:Romero;-inkscape-font-specification:'Romero, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0.0462375px;word-spacing:-1.70835px;fill:#000000;stroke-width:0.924751"
+           x="-0.585675"
+           y="46.720844"
+           id="text5"
+           transform="scale(1.0043691,0.9956499)"><tspan
+             sodipodi:role="line"
+             id="tspan4"
+             style="word-spacing:-1.70835px;fill:#000000;stroke-width:0.924751"
+             x="-0.585675"
+             y="46.720844"
+             dy="0">Language &amp; Data Intelligence</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:45.9279px;font-family:Panton;-inkscape-font-specification:'Panton, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0.0358113px;word-spacing:-3.77002px;fill:#ff6600;stroke-width:0.716226"
+           x="0.018504344"
+           y="35.802868"
+           id="text2"><tspan
+             sodipodi:role="line"
+             id="tspan1"
+             style="word-spacing:-3.77002px;stroke-width:0.716226"
+             x="0.018504344"
+             y="35.802868">II <tspan
+   style="word-spacing:-3.77002px;fill:#000000;stroke-width:0.716226"
+   id="tspan2">LDI LAB.</tspan></tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
