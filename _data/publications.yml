@@ -126,3 +126,10 @@
   authors: Seong Min Kye, Kwanghee Choi, Hyeongmin Byun, <b>Buru Chang</b>
   date: 2023.10.5
 
+- title: "Gradient Estimation for Unseen Domain Risk Minimization with Pre-Trained Models"
+  type: workshop
+  venue: Workshop and Challenges for Out-of-Distribution Generalization in Computer Vision @ ICCV2023 (<b>OOD-CV@ICCV23</b>)
+  year: 2023
+  authors: Byounggyu Lew, Donghyun Son, <b>Buru Chang</b>
+  date: 2023.10.5
+
