@@ -19,7 +19,7 @@ bodyClass: "page-teams"
         <div class="col-12 mb-2">
             <h2> Professor </h2>
             {% for professor in site.data.professor %}
-            <div class="team-image col-12 col-md-3">
+            <div class="team-image col-12 col-md-6 ">
                 <img width="100%" height="auto" class="img-fluid mb-2" src="{{ professor.image | relative_url }}" />
             </div>
             <div class="team-meta col-12 col-md-6">
@@ -53,7 +53,7 @@ bodyClass: "page-teams"
             <h2> Ph.D. Student </h2>
             {% for member in members %}
                 {% if member.image %}
-                <div class="team-image col-12 col-md-3">
+                <div class="team-image col-12 col-md-6">
                     <img width="100%" height="auto" class="img-fluid mb-2" src="{{ member.image | relative_url }}" />
                 </div>
                 {% endif %}
@@ -79,7 +79,7 @@ bodyClass: "page-teams"
             <h2> M.S. Student </h2>
             {% for member in members %}
                 {% if member.image %}
-                <div class="team-image col-12 col-md-3">
+                <div class="team-image col-12 col-md-6">
                     <img width="100%" height="auto" class="img-fluid mb-2" src="{{ member.image | relative_url }}" />
                 </div>
                 {% endif %}
