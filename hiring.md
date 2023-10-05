@@ -17,7 +17,7 @@ To achieve this, we are currently seeking talented and passionate students who m
 * Basic understanding of machine learning and experience with open-source libraries such as PyTorch and TensorFlow to develop deep learning projects.
 * Interest in pursuing research topics using machine learning techniques.
 
-**Preffered Qualifications**
+**Preferred Qualifications**
 
 * Excellent programming skills, with a preference for applicants who have completed education programs such as Software Maestro or BoB.
 * Strong communication skills, especially the ability to work well with others as a member of a research team. We prefer friendly and collaborative individuals.
