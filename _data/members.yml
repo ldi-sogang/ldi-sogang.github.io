@@ -1,27 +1,5 @@
 # Members
 
-- name: Student 1
-  status: Ph.D. Student
-  image: /images/members/student.jpg
-  email: student.1@sogang.ac.kr
-  personal_website: "#"
-  research_interest: Natural Language Processing
-  visible: true
-
-- name: Student 2
-  status: Ph.D. Student
-  image: /images/members/student.jpg
-  email: student.2@sogang.ac.kr
-  research_interest: Natural Language Processing
-  visible: true
-
-- name: Student 3
-  status: Ph.D. Student
-  image: /images/members/student.jpg
-  email: student.3@sogang.ac.kr
-  research_interest: Data Mining
-  visible: true
-
 
 - name: Eun Won Kim
   status: M.S. Student
