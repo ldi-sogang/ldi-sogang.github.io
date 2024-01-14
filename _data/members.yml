@@ -7,3 +7,10 @@
   email: kew5638@sogang.ac.kr
   research_interest: NLP Applications
   visible: true
+
+- name: Undergraduate Student 1
+  status: Undergraduate Student
+  image: /images/members/eunwonkim.jpg
+  email: student 1@sogang.ac.kr
+  research_interest: NLP Applications
+  visible: true
