@@ -1,5 +1,11 @@
 # Members
 
+- name: Ph.D. Student 1
+  status: Ph.D. Student
+  image: /images/members/student.jpg
+  email: student 1@sogang.ac.kr
+  research_interest: NLP Applications
+  visible: true
 
 - name: Eun Won Kim
   status: M.S. Student
@@ -10,7 +16,7 @@
 
 - name: Undergraduate Student 1
   status: Undergraduate Student
-  image: /images/members/eunwonkim.jpg
+  image: /images/members/student.jpg
   email: student 1@sogang.ac.kr
   research_interest: NLP Applications
   visible: true
