@@ -23,9 +23,9 @@
   visible: true
 
 
-- name: Student 4
+- name: Eun Won Kim
   status: M.S. Student
-  image: /images/members/student.jpg
-  email: student.4@sogang.ac.kr
-  research_interest: Recommender Systems
+  image: /images/members/eunwonkim.jpg
+  email: kew5638@sogang.ac.kr
+  research_interest: NLP Applications
   visible: true
