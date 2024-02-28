@@ -20,3 +20,10 @@
   email: plmft@sogang.ac.kr
   research_interest: NLP Applications, Commonsense Reasoning
   visible: true
+
+- name: JiHyeok Jung
+  status: Undergraduate Student
+  image: /images/members/JiHyeok.JPG
+  email: ji9759@sogang.ac.kr
+  research_interest: Vision-Language Model
+  visible: true
