@@ -27,3 +27,10 @@
   email: ji9759@sogang.ac.kr
   research_interest: Vision-Language Model
   visible: true
+
+- name: Chanho Park
+  status: Undergraduate Student
+  image: /images/members/Chanho.jpg
+  email: cksgh0984@sogang.ac.kr
+  research_interest: Dialogue System
+  visible: true
