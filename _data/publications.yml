@@ -155,8 +155,8 @@
   date: 2024.10.6
 
 - title: "Exploiting Semantic Reconstruction to Mitigate Hallucinations in Vision-Language Models"
-  type: preprint
-  venue: Arxiv
+  type: conference
+  venue: European Conference on Computer Vision (<b>ECCV24</b>)
   year: 2024
   authors: Minchan Kim, Minyeong Kim, Junik Bae, Suhwan Choi, Sungkyung Kim, <b>Buru Chang</b>
-  date: 2024.10.7
+  date: 2024.09.27
