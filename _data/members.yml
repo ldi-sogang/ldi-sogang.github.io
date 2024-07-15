@@ -41,3 +41,10 @@
   email: untae0122@sogang.ac.kr
   research_interest: Vision-Language Model, NLP Applications
   visible: true
+
+- name: Chanwoo Choi
+  status: Undergraduate Student
+  image: /images/members/Chanwoo.jpg
+  email: cw316@sogang.ac.kr
+  research_interest: RAG
+  visible: true
