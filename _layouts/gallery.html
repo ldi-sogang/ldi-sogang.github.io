@@ -1,0 +1,14 @@
+---
+layout: default
+bodyClass: "page-gallery"
+---
+
+<div class="container">
+    <div class="row">
+        {% for image in site.data.gallery_images %}
+        <div class="team-image col-12 col-md-4 col-lg-4 mb-4">
+            <img width="100%" height="auto" class="img-fluid mb-2" src="{{ image.src }}" alt="{{ image.title }}" />
+        </div>
+        {% endfor %}
+    </div>
+</div>

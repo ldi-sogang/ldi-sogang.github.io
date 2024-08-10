@@ -11,9 +11,12 @@ main:
   - name: "Contact"
     url: "/contact/"
     weight: 4
+  - name: "Gallery"
+    url: "/gallery/"
+    weight: 5
   - name: "Hiring!"
     url: "/hiring/"
-    weight: 5
+    weight: 6
 
 footer:
   - name: "Home"
