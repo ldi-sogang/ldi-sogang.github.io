@@ -71,3 +71,98 @@ body {
     line-height: 1.3;
   }
 }
+
+.gallery-item {
+    position: relative;
+    width: 100%;
+    padding-top: 100%; /* This makes the item a square by setting its height equal to its width */
+    overflow: hidden;
+}
+
+.gallery-image {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* This ensures the image covers the entire square area */
+    transition: opacity 0.3s ease;
+}
+
+.caption {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgba(0, 0, 0, 0.7);
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+}
+
+.gallery-item:hover .gallery-image {
+    opacity: 0.7;
+}
+
+.gallery-item:hover .caption {
+    opacity: 1;
+}
+
+.image-popup {
+    position: fixed;
+    z-index: 1000;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0,0,0,0.9);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; /* Align caption below the image */
+}
+
+.image-popup .close {
+    position: absolute;
+    top: 15px;
+    right: 35px;
+    color: #fff;
+    font-size: 40px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.image-popup .close:hover,
+.image-popup .close:focus {
+    color: #bbb;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.image-popup .popup-content {
+    max-width: 90%;
+    max-height: 80%;
+}
+
+#popupCaption {
+    position: absolute;
+    bottom: 10px; /* Adjust as needed */
+    left: 10px;   /* Adjust as needed */
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 5px 10px;
+    border-radius: 3px;
+    font-size: 14px;
+}
+
+.row.g-3 {
+    margin-right: -1px; /* Reduce or remove the negative margin of the row */
+    margin-left: -1px;  /* Adjust these values as needed */
+}
+
+.col-12, .col-sm-6, .col-md-4 {
+    padding-right: 0px; /* Reduce or remove padding */
+    padding-left: 0px;  /* Adjust these values as needed */
+}

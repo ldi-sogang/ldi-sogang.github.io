@@ -1,0 +1,32 @@
+---
+layout: default
+bodyClass: "page-basic"
+---
+<div class="container pb-6 pt-6 pt-md-10 pb-md-10">
+    <div class="row justify-content-start">
+        <div class="col-12 col-md-8">
+            <div class="service service-single">
+                <h1 class="title">{{page.title}}</h1>
+                <div class="row g-3">
+                {% for image in site.data.gallery %}
+                <div class="col-12 col-sm-6 col-md-4">
+                    <div class="gallery-item position-relative">
+                        <img src="{{ image.url }}" alt="{{ image.caption }}" class="img-fluid gallery-image">
+                        <div class="caption d-flex align-items-center justify-content-center">
+                            <span>{{ image.caption }}</span>
+                        </div>
+                    </div>
+                </div>
+                {% endfor %}
+    </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div id="imagePopup" class="image-popup d-none">
+    <span class="close">&times;</span>
+    <img class="popup-content" id="popupImage">
+    <div id="popupCaption"></div>
+</div>
