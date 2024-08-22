@@ -145,14 +145,14 @@
   venue: Arxiv
   year: 2024
   authors: Hyunjin Seo, Seongjun Yun, <b>Buru Chang</b>, Jaewoo Kang
-  date: 2024.10.5
+  date: 2023.10.5
 
 - title: "In-context Learning with Noisy Labels"
   type: preprint
   venue: Arxiv
   year: 2024
   authors: <b>Junyong Kang</b>, Donghyun Son, Hwanjun Song, <b>Buru Chang</b>
-  date: 2024.10.6
+  date: 2023.10.6
 
 - title: "Exploiting Semantic Reconstruction to Mitigate Hallucinations in Vision-Language Models"
   type: conference
@@ -160,3 +160,19 @@
   year: 2024
   authors: Minchan Kim, Minyeong Kim, Junik Bae, Suhwan Choi, Sungkyung Kim, <b>Buru Chang</b>
   date: 2024.09.27
+
+- title: "Review-driven Personalized Preference Reasoning with Large Language Models for Recommendation"
+  type: preprint
+  venue: Arxiv
+  year: 2024
+  authors: Jieyong Kim, Hyunseo Kim, Hyunjin Cho, SeongKu Kang, <b>Buru Chang</b>, Jinyoung Yeo, Dongha Lee
+  date: 2024.8.2
+
+- title: "ConVis: Contrastive Decoding with Hallucination Visualization for Mitigating Hallucinations in Multimodal Large Language Models"
+  type: preprint
+  venue: Arxiv
+  year: 2024
+  authors: Yeji Park†, <b>Deokyeong Lee</b>†, Junsuk Choe\*, <b>Buru Chang</b>\*
+  date: 2024.8.6
+
+
