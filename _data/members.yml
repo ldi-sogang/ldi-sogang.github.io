@@ -48,3 +48,10 @@
   email: cw316@sogang.ac.kr
   research_interest: Retrieval-Augmented Generation
   visible: true
+
+- name: Byungmin Park
+  status: Undergraduate Student
+  image: /images/members/byungmin.jpg
+  email: qkrqudals45@gmail.com
+  research_interest: Recommender Systems
+  visible: true
