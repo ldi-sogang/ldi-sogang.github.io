@@ -52,22 +52,24 @@ bodyClass: "page-teams"
             {% if members %}
             <h2> Ph.D. Students </h2>
             {% for member in members %}
-                {% if member.image %}
-                <div class="team-image col-8 col-md-4 col-sm-6 col-lg-3">
-                    <img width="100%" height="auto" class="img-fluid mb-2" src="{{ member.image | relative_url }}" />
-                </div>
-                {% endif %}
-                <div class="team-meta col-12 col-md-6">
-                    <h2 class="team-name">{{ member.name }}</h2>
-                    <p class="team-description"><b>{{ member.status }}</b>
-                    <br> Research interests: {{ member.research_interest }}
-                    <br> Email: {{ member.email }}
-                    {% if member.personal_website %}
-                    <br>
-                    <a href="{{ member.personal_website }}">[<u>Personal Website</u>]</a>
+                {% if member.visible %}
+                    {% if member.image %}
+                    <div class="team-image col-8 col-md-4 col-sm-6 col-lg-3">
+                        <img width="100%" height="auto" class="img-fluid mb-2" src="{{ member.image | relative_url }}" />
+                    </div>
                     {% endif %}
-                    </p>
-                </div>
+                    <div class="team-meta col-12 col-md-6">
+                        <h2 class="team-name">{{ member.name }}</h2>
+                        <p class="team-description"><b>{{ member.status }}</b>
+                        <br> Research interests: {{ member.research_interest }}
+                        <br> Email: {{ member.email }}
+                        {% if member.personal_website %}
+                        <br>
+                        <a href="{{ member.personal_website }}">[<u>Personal Website</u>]</a>
+                        {% endif %}
+                        </p>
+                    </div>
+                {% endif %}
             {% endfor %}
             {% endif %}
         </div>
@@ -78,6 +80,7 @@ bodyClass: "page-teams"
             {% if members %}
             <h2> M.S. Students </h2>
             {% for member in members %}
+            {% if member.visible %}
                 {% if member.image %}
                 <div class="team-image col-8 col-md-4 col-sm-6 col-lg-3">
                     <img width="100%" height="auto" class="img-fluid mb-2" src="{{ member.image | relative_url }}" />
@@ -94,6 +97,7 @@ bodyClass: "page-teams"
                     {% endif %}
                     </p>
                 </div>
+            {% endif %}
             {% endfor %}
             {% endif %}
         </div>
@@ -104,6 +108,7 @@ bodyClass: "page-teams"
             {% if members %}
             <h2> Undergraduate Students </h2>
             {% for member in members %}
+                {% if member.visible %}
                 {% if member.image %}
                 <div class="team-image col-8 col-md-4 col-sm-6 col-lg-3">
                     <img width="100%" height="auto" class="img-fluid mb-2" src="{{ member.image | relative_url }}" />
@@ -120,6 +125,7 @@ bodyClass: "page-teams"
                     {% endif %}
                     </p>
                 </div>
+            {% endif %}
             {% endfor %}
             {% endif %}
         </div>
