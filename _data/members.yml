@@ -19,7 +19,7 @@
   image: /images/members/deokyeong.jpg
   email: plmft@sogang.ac.kr
   research_interest: NLP Applications, Commonsense Reasoning
-  visible: true
+  visible: false
 
 - name: JiHyeok Jung
   status: Undergraduate Student
