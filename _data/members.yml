@@ -55,10 +55,17 @@
   email: qkrqudals45@gmail.com
   research_interest: Recommender Systems
   visible: true
-  
+
 - name: Seohyeong Lee
   status: Undergraduate Student
   image: /images/members/Seohyeong.jpg
   email: ruth1701@sogang.ac.kr
   research_interest: Recommendation Systems, NLP Applications
+  visible: true
+
+- name: Jamin Baik
+  status: Undergraduate Student
+  image: /images/members/jamin.jpg
+  email: gbjhgy126@gmail.com
+  research_interest: Dialogue System
   visible: true
