@@ -182,4 +182,11 @@
   authors: Beomsu Kim, Sangbum Kim, Minchan Kim, Joonyoung Yi, Sungjoo Ha, Suhyun Lee, Youngsoo Kee, Gihoon Yeom, <b>Buru Chang</b>, Gihun Lee
   date: 2024.12.20
 
+- title: "SHARE: Shared Memory-Aware Open-Domain Long-Term Dialogue Dataset Constructed from Movie Script"
+  type: preprint
+  venue: Arxiv
+  year: 2024
+  authors: Eunwon Kim, Chanho Park,  <b>Buru Chang</b>
+  date: 2024.10.16
+
 
