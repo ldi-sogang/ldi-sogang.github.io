@@ -10,8 +10,8 @@
 - name: Eun Won Kim
   status: M.S. Student
   image: /images/members/eunwonkim.jpg
-  email: kew5638@sogang.ac.kr
-  research_interest: NLP Applications
+  email: eun1k@sogang.ac.kr
+  research_interest: Dialogue System
   visible: true
 
 - name: Deokyeong Lee
