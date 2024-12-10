@@ -169,11 +169,11 @@
   date: 2024.8.2
 
 - title: "ConVis: Contrastive Decoding with Hallucination Visualization for Mitigating Hallucinations in Multimodal Large Language Models"
-  type: preprint
-  venue: Arxiv
-  year: 2024
+  type: conference
+  venue: AAAI Conference on Artificial Intelligence (<b>AAAI25</b>)
+  year: 2025
   authors: Yeji Park†, <b>Deokyeong Lee</b>†, Junsuk Choe\*, <b>Buru Chang</b>\*
-  date: 2024.8.6
+  date: 2025.2.28
 
 - title: "CUPID: A real-Time Session-Based Reciprocal Recommendation System for a One-on-One Social Discovery Platform"
   type: workshop
