@@ -189,4 +189,11 @@
   authors: <b>Eunwon Kim</b>, <b>Chanho Park</b>,  <b>Buru Chang</b>
   date: 2024.10.16
 
+  - title: "Is the 'Right' Right? Enhancing Object Orientation Understanding in Multimodal Language Models via Egocentric Instruction Tuning"
+  type: preprint
+  venue: Arxiv
+  year: 2024
+  authors: <b>Ji Hyeok Jung</b>, <b>Eun Tae Kim</b>, Seo Yeon Kim, Joo Ho Lee, Bumsoo Kim*, <b>Buru Chang</b>\*
+  date: 2024.10.16
+
 
