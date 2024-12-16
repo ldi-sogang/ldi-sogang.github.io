@@ -54,7 +54,7 @@
   image: /images/members/byungmin.jpg
   email: qkrqudals45@gmail.com
   research_interest: Recommender Systems
-  visible: true
+  visible: false
 
 - name: Seohyeong Lee
   status: Undergraduate Student
