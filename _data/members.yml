@@ -26,7 +26,7 @@
   image: /images/members/JiHyeok.JPG
   email: ji9759@sogang.ac.kr
   research_interest: Vision-Language Model
-  visible: true
+  visible: false
 
 - name: Chanho Park
   status: Undergraduate Student
