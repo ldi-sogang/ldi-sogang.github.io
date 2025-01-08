@@ -69,3 +69,10 @@
   email: gbjhgy126@gmail.com
   research_interest: Dialogue System
   visible: true
+
+- name: Jinsoo Kim
+  status: Undergraduate Student
+  image: /images/members/jinsoo.jpg
+  email: jinsoolve@gmail.com
+  research_interest: Vision-Language Model, NLP Applications
+  visible: true
