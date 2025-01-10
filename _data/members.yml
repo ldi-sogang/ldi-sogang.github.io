@@ -76,3 +76,10 @@
   email: jinsoolve@gmail.com
   research_interest: Vision-Language Model, NLP Applications
   visible: true
+
+- name: Soomin Han
+  status: Undergraduate Student
+  image: /images/members/soomin.jpg
+  email: soominsion@sogang.ac.kr
+  research_interest: NLP Applications, Vision-Language Model, Recommendation Systems
+  visible: true
