@@ -79,7 +79,7 @@
 
 - name: Soomin Han
   status: Undergraduate Student
-  image: /images/members/soomin.jpg
+  image: /images/members/soomin.JPG
   email: soominsion@sogang.ac.kr
   research_interest: NLP Applications, Vision-Language Model, Recommendation Systems
   visible: true
